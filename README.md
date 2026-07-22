@@ -1,4 +1,5 @@
 # Practice-C
+```
 Hello World
 #include <stdio.h>
 
@@ -8,7 +9,9 @@ int main() {
     return 0;
 }
 
+```
 Vrialbles & Data Types
+
 #include <stdio.h>
 
 int main() {
