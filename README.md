@@ -1,6 +1,6 @@
 # Practice-C
-```
 Hello World
+```
 #include <stdio.h>
 
 int main() {
@@ -11,7 +11,7 @@ int main() {
 
 ```
 Vrialbles & Data Types
-
+```
 #include <stdio.h>
 
 int main() {
@@ -25,8 +25,9 @@ int main() {
 
     return 0;
 }
-
+```
 Input using
+```
 #include <stdio.h>
 
 int main() {
@@ -39,8 +40,9 @@ int main() {
 
     return 0;
 }
-
+```
 Calculator
+```
 #include <stdio.h>
 
 int main() {
@@ -59,8 +61,9 @@ int main() {
 
     return 0;
 }
-
+```
 if-else
+```
 #include <stdio.h>
 
 int main() {
@@ -77,8 +80,9 @@ int main() {
 
     return 0;
 }
-
+```
 switch-case (Simple Calculator)
+```
 #include <stdio.h>
 
 int main() {
@@ -117,8 +121,9 @@ int main() {
 
     return 0;
 }
-
+```
 for Loop (Print 1 to N)
+```
 #include <stdio.h>
 
 int main() {
@@ -133,8 +138,9 @@ int main() {
 
     return 0;
 }
-
+```
 while Loop (Reverse a Number)
+```
 #include <stdio.h>
 
 int main() {
@@ -153,3 +159,4 @@ int main() {
 
     return 0;
 }
+```
